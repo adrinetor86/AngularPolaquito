@@ -14,6 +14,7 @@ import { Polacothings } from '../polacothings';
         <input type="text" placeholder="Filter by object">
         <button class="primary" type="button">Search</button>
 
+
       </form>
       <app-poland-things
         *ngFor="let polacothings of PolacothingsList"
