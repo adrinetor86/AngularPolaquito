@@ -3,6 +3,7 @@
   border-radius: 30px;
   padding-bottom: 30px;
 }
+
 .listing-heading {
   color: black;
   padding: 10px 20px 0 20px;
@@ -23,9 +24,9 @@
 .listing-location {
   padding: 10px 20px 20px 20px;
 }
-.listing-location::before {
-  content: url("/assets/location-pin.svg") / "";
-}
+/*.listing-location::before {*/
+/*  content: url("/assets/location-pin.svg") / "";*/
+/*}*/
 
 section.listing a {
   padding-left: 20px;
